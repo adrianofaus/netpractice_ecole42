@@ -23,5 +23,5 @@ In order to succeed in doing this project I had to master the following:
 
 ### Exercise 01
 <details>
-![Ex 01](https://user-images.githubusercontent.com/63206471/175401125-bf4576ab-007f-455b-b104-edb07209bd47.png)
+![Unsolved](https://github.com/adrianofaus/netpractice_ecole42/tree/main/img_solution/Ex_01_unsolved.png)
 </details>
