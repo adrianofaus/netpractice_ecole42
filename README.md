@@ -20,3 +20,5 @@ In order to succeed in doing this project I had to master the following:
 * Subnet mask
 * IP Classes
 * Routing
+
+### Exercise 01
