@@ -22,4 +22,8 @@ In order to succeed in doing this project I had to master the following:
 * Routing
 
 ### Exercise 01
-!(https://github.com/adrianofaus/netpractice_ecole42/tree/main/img_solution/Ex_01_unsolved.png)
+<details>
+  <summary>show</summary>
+  ![Unsolved](https://github.com/adrianofaus/netpractice_ecole42/tree/main/img_solution/Ex_01_unsolved.png)
+  Teste
+</details>
