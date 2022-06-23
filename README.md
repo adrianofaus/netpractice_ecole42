@@ -26,7 +26,7 @@ In order to succeed in doing this project I had to master the following:
 <details>
   <summary>show</summary>
   
-  ![Ex_01_unsolved](https://github.com/adrianofaus/netpractice_ecole42/tree/main/img_solution/Ex_01_unsolved.png)<br>
+  [![Ex_01_unsolved](https://github.com/adrianofaus/netpractice_ecole42/tree/main/img_solution/Ex_01_unsolved.png)<br>](https://github.com/adrianofaus/netpractice_ecole42/blob/ffbbb87b69e842c62f942aa45a34dcf76bba57ce/img_solution/Ex_01_unsolved.png)
   Teste
   
 </details>
