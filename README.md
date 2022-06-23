@@ -26,6 +26,9 @@ In order to succeed in doing this project I had to master the following:
 <details>
   <summary>show</summary>
   
+  * Goal 1 - my PC need to communicate with my little brother's computer
+  * Goal 2 - my Mac need to communicate with my little sister's computer
   ![Unsolved](img_solution/Ex_01_unsolved.png)<br>
+  
   ![Solved](img_solution/Ex_01_solved.png)<br>
 </details>
