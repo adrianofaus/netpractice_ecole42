@@ -21,4 +21,9 @@ In order to succeed in doing this project I had to master the following:
 * IP Classes
 * Routing
 
-![Ex01](img_solution/Ex_01_unsolved.png)
+### Exercise 01
+
+<details>
+  <summary>show</summary>
+  ![Ex01](img_solution/Ex_01_unsolved.png)
+</details>
