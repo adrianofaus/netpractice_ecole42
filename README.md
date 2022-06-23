@@ -8,6 +8,8 @@
 
 
 ## Skills that I have improved
+* Network & system administration
+* Rigor
 
 ## Introduction
 
