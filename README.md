@@ -20,8 +20,3 @@ In order to succeed in doing this project I had to master the following:
 * Subnet mask
 * IP Classes
 * Routing
-
-### Exercise 01
-<details>
-![Ex 01](https://user-images.githubusercontent.com/63206471/175401125-bf4576ab-007f-455b-b104-edb07209bd47.png)
-</details>
