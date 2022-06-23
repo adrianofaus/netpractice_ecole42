@@ -26,6 +26,6 @@ In order to succeed in doing this project I had to master the following:
 <details>
   <summary>show</summary>
   
-  ![Ex01](img_solution/Ex_01_unsolved.png)
+  ![Unsolved](img_solution/Ex_01_unsolved.png)
   
 </details>
