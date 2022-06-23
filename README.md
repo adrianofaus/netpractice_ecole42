@@ -12,7 +12,11 @@
 * Rigor
 
 ## Introduction
+* This project is a general practical exercise that let me discover networking.
 
 ## The project
-
-## How to run it?
+In order to succeed in doing this project I had to master the following:
+* TCP/IP Addressing
+* Subnet mask
+* IP Classes
+* Routing
