@@ -28,6 +28,8 @@ In order to succeed in doing this project I had to master the following:
   
   Unsolved Exercise
   ![Unsolved](img_solution/Ex_01_unsolved.png)<br>
+  
   Solved Exercise
   ![Solved](img_solution/Ex_01_solved.png)<br>
+
 </details>
