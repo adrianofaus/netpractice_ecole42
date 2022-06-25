@@ -27,10 +27,10 @@ In order to succeed in doing this project I had to master the following:
   <summary>show</summary>
   
   Unsolved Exercise
-  ![Unsolved](img_solution/Ex_01_unsolved.png)<br>
+  ![Problem](img_solution/Ex_01_unsolved.png)<br>
   
   Solved Exercise
-  ![Solved](img_solution/Ex_01_solved.png)<br>
+  ![Solution](img_solution/Ex_01_solved.png)<br>
   * `104.95.23` is the first network IP
   * _Client A_ and _Client B_ are on the same network so they need to have the same network IP
   * The host interval for the mask `255.255.255.0` is `1 to 254`. The host part of _Client A_  IP need to be on this interval
