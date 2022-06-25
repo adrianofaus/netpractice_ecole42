@@ -26,10 +26,10 @@ In order to succeed in doing this project I had to master the following:
 <details>
   <summary>show</summary>
   
-  Unsolved Exercise
+  Problem Exercise
   ![Problem](img_solution/Ex_01_unsolved.png)<br>
   
-  Solved Exercise
+  Solution Exercise
   ![Solution](img_solution/Ex_01_solved.png)<br>
   * `104.95.23` is the first network IP
   * _Client A_ and _Client B_ are on the same network so they need to have the same network IP
