@@ -21,10 +21,8 @@ In order to succeed in doing this project I had to master the following:
 * IP Classes
 * Routing
 
-### Exercise 01
-
 <details>
-  <summary>show</summary>
+  <summary>Exercise 01</summary>
   
   Problem Exercise
   ![Problem](img_solution/Ex_01_unsolved.png)<br>
