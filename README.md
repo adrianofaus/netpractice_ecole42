@@ -41,9 +41,9 @@ In order to succeed in doing this project I had to master the following:
   
   Solution
   ![Solution](img_solution/Ex_02_solved.png)<br>
-  * The submask of Interface A1 is `255.255.255.224`.
+  * The submask of Interface A1 is `255.255.255.224`
   * Interface B1 is on the same network as Interface A1, because of this both need to have the same submask
   * The IP of Interface B1 is `192.168.62.222`, then all devices that need to communicate with Interface B1 need to have an IP ranging from `192.168.62.192`to            `192.168.62.221`
-  * All submasks are setled on the other network, so everything that is asked to do is set up the IP of both devices
+  * The submask on the network that connects Interface C1 and Interface D is already configurated, then everything that is asked to do is to set up the IP of both devices
   * Because the submask of the network is `255.255.255.252` there are two availables hosts per sub-net
 </details>
