@@ -108,7 +108,7 @@ In order to succeed in doing this project I had to master the following:
 * Split the network on 4 sub networks
 * Fill the _Router R1_ table, next hop will be the IP of _Interface R21_
 * Fill the _Router R2_ table, next hop will be the IP of _Interface R12_
-* The rest need to be filled as the same as the previous exercises
+* The rest need to be filled as the previous exercises
 </details>
 
 <details>
