@@ -69,3 +69,69 @@ In order to succeed in doing this project I had to master the following:
 * The IP of _Interface A1_ is `104.198.101.125` and the sub mask of _Interface C1_ is `255.255.255.128`
 * IP range for devices of this network is `104.198.101.1` to `104.198.101.126` due to the information that the exercise gave
 </details>
+
+<details>
+  <summary>Exercise 05</summary>
+  
+  ![Problem](img_solution/Ex_05_unsolved.png)<br>
+  
+  Solution
+  ![Solution](img_solution/Ex_05_solved.png)<br>
+* The IP of _Interface A1_ is `104.198.101.125` and the sub mask of _Interface C1_ is `255.255.255.128`
+* IP range for devices of this network is `104.198.101.1` to `104.198.101.126` due to the information that the exercise gave
+</details>
+
+<details>
+  <summary>Exercise 06</summary>
+  
+  ![Problem](img_solution/Ex_06_unsolved.png)<br>
+  
+  Solution
+  ![Solution](img_solution/Ex_06_solved.png)<br>
+* The IP of _Interface A1_ is `104.198.101.125` and the sub mask of _Interface C1_ is `255.255.255.128`
+* IP range for devices of this network is `104.198.101.1` to `104.198.101.126` due to the information that the exercise gave
+</details>
+
+<details>
+  <summary>Exercise 07</summary>
+  
+  ![Problem](img_solution/Ex_07_unsolved.png)<br>
+  
+  Solution
+  ![Solution](img_solution/Ex_07_solved.png)<br>
+* The IP of _Interface A1_ is `104.198.101.125` and the sub mask of _Interface C1_ is `255.255.255.128`
+* IP range for devices of this network is `104.198.101.1` to `104.198.101.126` due to the information that the exercise gave
+</details>
+
+<details>
+  <summary>Exercise 08</summary>
+  
+  ![Problem](img_solution/Ex_08_unsolved.png)<br>
+  
+  Solution
+  ![Solution](img_solution/Ex_08_solved.png)<br>
+* The IP of _Interface A1_ is `104.198.101.125` and the sub mask of _Interface C1_ is `255.255.255.128`
+* IP range for devices of this network is `104.198.101.1` to `104.198.101.126` due to the information that the exercise gave
+</details>
+
+<details>
+  <summary>Exercise 09</summary>
+  
+  ![Problem](img_solution/Ex_09_unsolved.png)<br>
+  
+  Solution
+  ![Solution](img_solution/Ex_09_solved.png)<br>
+* The IP of _Interface A1_ is `104.198.101.125` and the sub mask of _Interface C1_ is `255.255.255.128`
+* IP range for devices of this network is `104.198.101.1` to `104.198.101.126` due to the information that the exercise gave
+</details>
+
+<details>
+  <summary>Exercise 10</summary>
+  
+  ![Problem](img_solution/Ex_10_unsolved.png)<br>
+  
+  Solution
+  ![Solution](img_solution/Ex_10_solved.png)<br>
+* The IP of _Interface A1_ is `104.198.101.125` and the sub mask of _Interface C1_ is `255.255.255.128`
+* IP range for devices of this network is `104.198.101.1` to `104.198.101.126` due to the information that the exercise gave
+</details>
