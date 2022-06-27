@@ -77,8 +77,13 @@ In order to succeed in doing this project I had to master the following:
   
   Solution
   ![Solution](img_solution/Ex_05_solved.png)<br>
-* The IP of _Interface A1_ is `104.198.101.125` and the sub mask of _Interface C1_ is `255.255.255.128`
-* IP range for devices of this network is `104.198.101.1` to `104.198.101.126` due to the information that the exercise gave
+* There are two different networks and the router intermediate the communicate between them
+* This exercise adds a _route table_ and for now we just need to inform the _next hop_
+* On the _Client B_ table is necessary to inform the IP of _Interface R2_
+* On the _Client A_ table is necessary to inform the IP of _Interface R1_
+* The exercise already gave the network IP for _Interface B1_ and _Interface A1_
+* _Interface B1_ belongs to the same network of _Interface B2_ so it will need to have the same Network IP but with a different host number
+* _Interface A1_ belongs to the same network of _Interface R1_ so it will need to have the same Network IP but with a different host number
 </details>
 
 <details>
