@@ -93,8 +93,9 @@ In order to succeed in doing this project I had to master the following:
   
   Solution
   ![Solution](img_solution/Ex_06_solved.png)<br>
-* The IP of _Interface A1_ is `104.198.101.125` and the sub mask of _Interface C1_ is `255.255.255.128`
-* IP range for devices of this network is `104.198.101.1` to `104.198.101.126` due to the information that the exercise gave
+* This exercise adds a connection with the internet.
+* It's necessary to inform the network IP and the Submask on the slash notation format on the Internet Route Table. On this case it will be `61.41.198.128/25`.
+* Others fields need to be filled as the previous exercises
 </details>
 
 <details>
