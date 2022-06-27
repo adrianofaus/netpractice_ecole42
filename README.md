@@ -105,8 +105,10 @@ In order to succeed in doing this project I had to master the following:
   
   Solution
   ![Solution](img_solution/Ex_07_solved.png)<br>
-* The IP of _Interface A1_ is `104.198.101.125` and the sub mask of _Interface C1_ is `255.255.255.128`
-* IP range for devices of this network is `104.198.101.1` to `104.198.101.126` due to the information that the exercise gave
+* Split the network on 4 sub networks
+* Fill the _Router R1_ table, next hop will be the IP of _Interface R21_
+* Fill the _Router R2_ table, next hop will be the IP of _Interface R12_
+* The rest need to be filled as the same as the previous exercises
 </details>
 
 <details>
