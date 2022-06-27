@@ -66,8 +66,8 @@ In order to succeed in doing this project I had to master the following:
   
   Solution
   ![Solution](img_solution/Ex_04_solved.png)<br>
-* The IP of _Interface A1_ is `104.198.101.125` and the sub mask of _Interface C1_ is `255.255.255.128`
-* IP range for devices of this network is `104.198.101.1` to `104.198.101.126` due to the information that the exercise gave
+  * Firstly, get a sub mask that will give a IP range that will not overlap Interface R3 and Interface R2. In my case I got 255.255.255.240 so the IP range will be `192.181.114.129` to `192.181.114.142`
+  * Set up _Interface R1_ and _Interface R2_ with the chosen sub mask IP range
 </details>
 
 <details>
