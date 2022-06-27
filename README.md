@@ -118,8 +118,20 @@ In order to succeed in doing this project I had to master the following:
   
   Solution
   ![Solution](img_solution/Ex_08_solved.png)<br>
-* The IP of _Interface A1_ is `104.198.101.125` and the sub mask of _Interface C1_ is `255.255.255.128`
-* IP range for devices of this network is `104.198.101.1` to `104.198.101.126` due to the information that the exercise gave
+* Configurate the next hop of the internet. It will be the IP of _Interface R12_
+* IP of _Interface R13_ is on _Router R2_ table
+* _Interface R21_ need to be on the same sub network as _Interface R12_
+* Get the first sub network from 132.196.194.0/26
+	* It will have an IP ranging from 132.196.194.0 to 132.196.194.63
+* Split this sub network on 4 parts
+* It will give the following sub networks
+	* 132.196.194.0 to 132.196.194.15
+	* 132.196.194.16 to 132.196.194.31
+	* 132.196.194.32 to 132.196.194.47
+	* 132.196.194.48 to 132.196.194.63
+* The first sub network will be for _Interface R23_ and _Interface D1_
+* The second one will be for _Interface R22_ and _Interface C1_
+* Lastly, fill the router tables
 </details>
 
 <details>
