@@ -67,7 +67,7 @@ In order to succeed in doing this project I had to master the following:
   Solution
   ![Solution](img_solution/Ex_04_solved.png)<br>
   * Firstly, get a sub mask that will give a IP range that will not overlap Interface R3 and Interface R2. In my case I got 255.255.255.240 so the IP range will be `192.181.114.129` to `192.181.114.142`
-  * Set up _Interface R1_ and _Interface R2_ with the chosen sub mask IP range
+  * Set up _Interface R1_ and _Interface R2_ with the chosen sub mask and IP range
 </details>
 
 <details>
